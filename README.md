@@ -1,4 +1,5 @@
-# hello-world
+# crypto-market-info 
+A Bitcoin and cryptocurrency data application created with Vuejs and data powered by coingecko.
 
 ## Project setup
 ```
